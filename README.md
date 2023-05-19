@@ -1,6 +1,6 @@
 ## About Me
 
-Hi I'm Aaron Hardin. 👋 I mostly focus on C# but enjoy the differences about different languages. I currently live in Texas (USA) and am learning Japanese with the intention of working (and living) there.
+Hi I'm Aaron Hardin. 👋 I primarily work in C# and I'm adding as much rust as I can manage.
 
 Recent projects I would love feedback on:
 - [loan-payoff](https://github.com/aaron-hardin/loan-payoff)
